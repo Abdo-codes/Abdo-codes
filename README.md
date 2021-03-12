@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdo-codes
+- 👋 Hi, I’m Abdo, or Abdoelrhman if you can say it :D
 - 👀 I’m interested in mobile development, Blockchain, fintech.
 - 🌱 I’m currently learning more about Blockchain.
 - 💞️ I’m looking to collaborate on intersting projects. 
