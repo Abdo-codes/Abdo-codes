@@ -2,8 +2,8 @@
 - 👀  I’m interested in software development, Mobile, Blockchain and fintech.
 - 🌱  I’m currently learning more about architecture/SwiftUI.
 - 🧑‍🏫  I teach and mentor iOS developers @lintSchool.
-- 💞️  I’m looking to collaborate on intersting projects. 
-- 📫  How to reach me: abdoelrhman.eaita@gmail.com
+- 💞️  Always loving to help, so feel free to reach out.  
+- 📫  How to reach me: a.e@lintschool.com
 
 <!---
 Abdo-codes/Abdo-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
