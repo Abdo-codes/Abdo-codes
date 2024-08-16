@@ -1,9 +1,9 @@
-- 👋  Hi, I’m Abdo, Amsterdam based senior iOS engineer @MarktPlaats
-- 👀  I’m interested in software development, Mobile, Blockchain and fintech.
-- 🌱  I’m currently learning more about architecture/SwiftUI.
+- 👋  Hi, I’m Abdo, Amsterdam-based senior iOS engineer @MarktPlaats
+- 👀  I’m interested in people, software development, Mobile, ML, and swimming.
+- 🌱  I’m currently learning more about ML/AI.
 - 🧑‍🏫  I teach and mentor iOS developers @lintSchool.
-- 💞️  Always loving to help, so feel free to reach out.  
-- 📫  How to reach me: a.e@lintschool.com
+- 💞️  Always love to help, so feel free to reach out.  
+- 📫  How to reach me: abdelrahman.eaita@gmail.com
 
 <!---
 Abdo-codes/Abdo-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
