@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Abdo, Amsterdam-based senior iOS engineer @NewStorr
+- 👋  Hi, I’m Abdo, Amsterdam-based senior iOS engineer @NewStore
 - 👀  I’m interested in people, software development, Mobile, ML, and swimming.
 - 🌱  I’m currently learning more about ML/AI.
 - 🧑‍🏫  I teach and mentor iOS developers @lintSchool.
