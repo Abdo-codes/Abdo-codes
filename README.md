@@ -1,11 +1,11 @@
-- 👋  Hi, I’m Abdo, Amsterdam-based senior iOS engineer @NewStore
-- 👀  I’m interested in people, software development, Mobile, ML, and swimming.
-- 🌱  I’m currently learning more about ML/AI.
-- 🧑‍🏫  I teach and mentor iOS developers @lintSchool.
-- 💞️  Always love to help, so feel free to reach out.  
-- 📫  How to reach me: abdelrahman.eaita@gmail.com
+Hey 👋 you probably know me, maybe you don't! If you don't then let me introduce myself:
 
-<!---
-Abdo-codes/Abdo-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a self-learner software engineer, working with Swift language and iOS mainly. I'm interested in programming, community, teaching and helping others. I've created the first local community for iOS developers in Cairo and Egypt. Also now I'm following my passion at [LintSchool](https://github.com/lintSchool) project, which is a place I get to teach what I've learned to other developers in the community.
+
+If you like what I did, or you wanna be part of it, maybe you can help!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/yoloabdo)
+
+Check also my [website](https://yoloabdo.com) for more.
+
+📫 Reach me: abdoelrhman.eaita@gmail.com
